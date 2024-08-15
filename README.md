@@ -1,7 +1,4 @@
-# Google Docs Clone
-
-A completely Responsive Instagram App- Works on Android, iOS & Web! 
-
+# DocMate
 ## Features
 - Google Authentication
 - State Persistence
